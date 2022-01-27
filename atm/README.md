@@ -1,0 +1,9 @@
+#  ATM
+
+ADMIN : bala
+
+PASSWORD : 1234
+
+USERNAME : ezhil
+
+PASSWORD : 1234
